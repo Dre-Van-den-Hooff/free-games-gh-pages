@@ -2,7 +2,7 @@
   "name": "web-dev-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hogent-web.github.io/frontendweb-karine-2122-Dre-Van-den-Hooff/",
+  "homepage": "https://dre-van-den-hooff.github.io/free-games-gh-pages/",
   "dependencies": {
     "@chakra-ui/react": "^1.6.10",
     "@emotion/react": "^11",
