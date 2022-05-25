@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/frontendweb-karine-2122-Dre-Van-den-Hooff/static/css/main.bcc9d975.chunk.css",
+    "main.js": "/frontendweb-karine-2122-Dre-Van-den-Hooff/static/js/main.dcc7c4cf.chunk.js",
+    "main.js.map": "/frontendweb-karine-2122-Dre-Van-den-Hooff/static/js/main.dcc7c4cf.chunk.js.map",
+    "runtime-main.js": "/frontendweb-karine-2122-Dre-Van-den-Hooff/static/js/runtime-main.79404b32.js",
+    "runtime-main.js.map": "/frontendweb-karine-2122-Dre-Van-den-Hooff/static/js/runtime-main.79404b32.js.map",
+    "static/js/2.f371eb68.chunk.js": "/frontendweb-karine-2122-Dre-Van-den-Hooff/static/js/2.f371eb68.chunk.js",
+    "static/js/2.f371eb68.chunk.js.map": "/frontendweb-karine-2122-Dre-Van-den-Hooff/static/js/2.f371eb68.chunk.js.map",
+    "static/js/3.ff210d6c.chunk.js": "/frontendweb-karine-2122-Dre-Van-den-Hooff/static/js/3.ff210d6c.chunk.js",
+    "static/js/3.ff210d6c.chunk.js.map": "/frontendweb-karine-2122-Dre-Van-den-Hooff/static/js/3.ff210d6c.chunk.js.map",
+    "index.html": "/frontendweb-karine-2122-Dre-Van-den-Hooff/index.html",
+    "static/css/main.bcc9d975.chunk.css.map": "/frontendweb-karine-2122-Dre-Van-den-Hooff/static/css/main.bcc9d975.chunk.css.map",
+    "static/js/2.f371eb68.chunk.js.LICENSE.txt": "/frontendweb-karine-2122-Dre-Van-den-Hooff/static/js/2.f371eb68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79404b32.js",
+    "static/js/2.f371eb68.chunk.js",
+    "static/css/main.bcc9d975.chunk.css",
+    "static/js/main.dcc7c4cf.chunk.js"
+  ]
+}
